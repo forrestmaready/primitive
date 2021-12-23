@@ -75,6 +75,7 @@ Traditional websites could list and rank primitives by category or popularity. W
 
 Purpose-built apps would show—at a glance—the datapoints the user has saved. They could make creating primitives simple enough for anyone to use—a single endpoint API in less than 60 seconds. Create Boolean. Name it. Label it—"On/Off” or “Open/Closed”—and publish it. URL copied to clipboard, ready to share with your friends and family and beyond.
 
+---
 
 Like lightsabers and wooden food stands, the primitive web is not meant to replace current technology but augment it. It takes a simple concept from long ago and injects it into an aging infrastructure that could benefit from less complexity. “Adding lightness,” as Lotus racing engineers—searching for anywhere they could drill more holes in things—would call it.
 
