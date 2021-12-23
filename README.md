@@ -45,7 +45,7 @@ They might even be nested or combined into more complex structures. Our soup-lov
 
 This simplification in the way data is produced and consumed on the web could improve its utility in many ways. But what about the discovery? The web cannot exist solely as primitives—it would be unusable. Like our favorite science fiction movies, there must be a way to bring this seed of an idea back to the present and combine them in such a way others can benefit.
 
-Combining the primitive web with the future
+## Combining the primitive web with the future
 If we now come back to the present, and possibly to the near future, we should consider how we might integrate the primitive web, with its stripped-down strings and numbers, into the complexity of what we use every day. In order to do that, we should explore for a moment what a primitive actually might be.
 
 A basic implementation of a web primitive might be a simple JSON object:
